@@ -1,0 +1,16 @@
+/* Define custom fonts */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+ 
+  
+    

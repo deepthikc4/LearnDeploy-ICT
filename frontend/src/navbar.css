@@ -1,0 +1,20 @@
+.hover {
+    font-size: 15px !important;
+    font-weight: bold;
+}
+.header{
+    font-family:   'Arial Narrow Bold', sans-serif;
+}
+.carrers{
+    background-image: url(../public/img/carrers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title-header{
+    background-image: url(../public/img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search{
+    border: 1px solid #fff !important;
+}
